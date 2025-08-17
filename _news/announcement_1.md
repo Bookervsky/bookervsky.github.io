@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I just finished my intern as an algorithm engineer in UHALEAN INFORMATION TECHNOLOGY(SHANGHAI) CO., LTD.
+I just finished my intern as an algorithm engineer in UHAlean Information Technology (Shanghai) Co., Ltd

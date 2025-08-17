@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>School of Traffic and Transportation, Beijing Jiaotong University</a>. 
+subtitle: <a href='http://en.trans.bjtu.edu.cn/'>School of Traffic and Transportation, Beijing Jiaotong University</a>. 
 
 profile:
   align: right

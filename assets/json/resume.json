@@ -15,9 +15,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "#",
+        "username": "bookervsky",
+        "url": "#"
       }
     ]
   },
@@ -29,9 +29,7 @@
       "area": "Traffic and Transportation Planning and Management",
       "studyType": "M. Eng.",
       "startDate": "2023-09-01",
-      "endDate": "2026-06-01(expected)",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "endDate": "2026-06-01(expected)"
     },
     {
       "institution": "Beijing Jiaotong University",
@@ -46,6 +44,12 @@
   ],
   "publications": [
     {
+      "name": "(Accepted) Analysis of Spatial Characteristics and Driving Factors of Urban Public Transportation Travel Based on Point of Interest Data",
+      "publisher": "Railway Transport and Economy",
+      "releaseDate": "2025",
+      "summary": "Urban public transportation is an important travel mode for alleviating traffic congestion and reducing environmental pollution. Exploring the interactive relationship between built environment and the distribution of public transport ridership is crucial for guiding the healthy development of public transportation system..."
+    },
+    {
       "name": "Impact of Spatio-Temporal evolution of freeway networks on Socio-Economic Dynamics: A case study from Fujian, China",
       "publisher": "Transportation Research Part A: Policy and Practice",
       "releaseDate": "2025",
@@ -53,15 +57,104 @@
       "summary": "Freeway infrastructures play a pivotal role in driving socio-economic development. However, without a comprehensive understanding of the relationship between freeway network evolution and socio-economic dynamics, it would be difficult to further shape the economic landscape through adjustments in the freeway network layout..."
     }
   ],
+  "projects": [
+    {
+      "name": "Curbside parking management",
+      "summary": "Explore the bidirectional interplay between the distribution of on-street parking space and the equilibrium of traffic flow in an urban road network.",
+      "highlights": [
+      "Designed a Bi-level optimization model to address the interaction between on-street parking space disytibution and traffic flow equilibrium",
+      "Single-level reduction was applied to simplify the Bi-level structure, evolutionary Heuristics was employed to solve the reformulated single-level problem."],
+      "startDate": "2024-10",
+      "endDate": ""
+    },
+    {
+      "name": "Advanced planning and scheduling for Vitasoy",
+      "summary": "Design the beverage production schedule for Vitasoy, ensure production satisfy customer demand meanwhile maintaining inventory at optimal level, minimizing production line changeover costs, accommodate manufacturing with varing raw-material blend formulations, etc.",
+      "highlights": [
+      "Penalty method were introduced to handle soft constraints such as inventory level and material production ratio",
+      "Lexicographic method were introduced to solve the multi-objective problem"],
+      "startDate": "2025-06",
+      "endDate": "2022-08"
+    },
+    {
+      "name": "Impact of Spatio-Temporal evolution of freeway networks on Socio-Economic Dynamics: A case study from Fujian, China",
+      "summary": "Explore the relationship between freeway network evolution and socio-economic dynamics",
+      "highlights": [
+      "Multiscale geographically and temporally weighted regression (MGTWR) is employed to quantify the economic stimulatory effects of freeway network evolution"],
+      "startDate": "2023-10",
+      "endDate": "2025-05"
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "UHAlean Information Technology (Shanghai) Co., Ltd",
+      "position": "Algorithm Engineer",
+      "url": "https://www.youhualin.com/en/about.html",
+      "startDate": "2025-06",
+      "endDate": "2025-08",
+      "highlights": [
+      "Design and implement demand forecast algorithms such as XGBOOST, ARIMA, Exponential Smoothing, etc. for Shell plc.",
+      "Design and implement Advanced production schedule for VitaSoy, formulate and solve a multi-objective optimization problem under real-world complex constraints."]
+    }
+  ],
+    "skills": [
+    {
+      "name": "Programming languages",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python","Java","Shell"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
+        "Python(Pandas,NumPy)",
+        "SQL",
+        "SPSS"
+      ]
+    },
+    {
+      "name": "Solver",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Gurobi"
+      ]
+    },
+    {
+      "name": "GIS",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-map",
+      "keywords": [
+        "ArcGIS",
+        "QGIS"
+      ]
+    },
+    {
+      "name": "DevOps&Tools",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Git",
+        "Docker",
+        "LaTex",
+        "Markdown"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "IELTS 7.5",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native",
+      "icon": ""
     }
   ],
   "volunteer": [
@@ -78,11 +171,12 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Second Class scholarship",
+      "date": "2024-10"
+    },
+    {
+      "title": "Third Class scholarship",
+      "date": "2019-10"
     }
   ],
   "certificates": [
@@ -94,35 +188,14 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "skills": [
-    {
-      "name": "Programming languages",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python","Java","Shell"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "IELTS 7.5",
-      "icon": ""
-    },
-    {
-      "language": "Mandarin Chinese",
-      "fluency": "Native",
-      "icon": ""
-    }
-  ],
   "interests": [
     {
       "name": "Optimization Theories",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Operations Research",
-        "Optimization Theories"
+        "Convex optimization",
+        "Multi-objective optimization",
+        "Bi-level optimization"
       ]
     }
   ],
@@ -136,16 +209,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
