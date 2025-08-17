@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bookervsky.github.io/sitemap.xml
+Sitemap: https://bookervsky.tech/sitemap.xml
