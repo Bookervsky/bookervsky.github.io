@@ -51,13 +51,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "books-computer-networking-a-top-down-approach",
+          title: 'Computer Networking A Top-Down Approach',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/Computer_Networking/";
+            },},{id: "books-convex-optimization",
+          title: 'Convex Optimization',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Convex_Optimization/";
+            },},{id: "books-effective-python",
+          title: 'Effective Python',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Effective_Python/";
+            },},{id: "books-hedge-fund-market-wizards",
+          title: 'Hedge Fund Market Wizards',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Hedge_fund_Market_Wizards/";
+            },},{id: "books-introduction-to-linear-optimization",
+          title: 'Introduction to Linear Optimization',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Introduction_to_Linear_Optimization/";
             },},{id: "news-i-just-finished-my-intern-as-an-algorithm-engineer-in-uhalean-information-technology-shanghai-co-ltd",
-          title: 'I just finished my intern as an algorithm engineer in UHALEAN INFORMATION TECHNOLOGY(SHANGHAI)...',
+          title: 'I just finished my intern as an algorithm engineer in UHAlean Information Technology...',
           description: "",
           section: "News",},{
         id: 'social-email',
